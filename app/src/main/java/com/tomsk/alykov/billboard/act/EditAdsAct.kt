@@ -25,6 +25,13 @@ class EditAdsAct : AppCompatActivity() {
 
         rootElement.spCountry.adapter = adapter
 
+        /*val cityNames = CityHelper.getAllCountries(this)
+        val spinner = rootElement.spinner
+        if (spinner != null) {
+            val adapter = ArrayAdapter(this,android.R.layout.simple_spinner_item, cityNames)
+            spinner.adapter = adapter
+        } */
+
 
     }
 }
