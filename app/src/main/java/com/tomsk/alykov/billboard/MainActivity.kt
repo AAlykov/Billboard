@@ -1,4 +1,5 @@
 package com.tomsk.alykov.billboard
+//работа с пулреквастами https://www.youtube.com/watch?v=8A4TsoXJOs8
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
